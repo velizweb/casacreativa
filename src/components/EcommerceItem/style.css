@@ -1,0 +1,54 @@
+.productListItemTitleWrapper{
+      overflow:'hidden';
+}
+
+.productListItemTitle{
+
+      text-overflow: ellipsis;
+      margin: 0px;
+      padding: 0px;
+      overflow: hidden;
+      white-space: nowrap;
+      font-size: 1em;
+      font-weight: 100;
+}
+
+
+.productListItemDescriptionWrapper{
+      max-height: 5.5em;
+      overflow: hidden;
+}
+
+.productListItemDescription{
+      text-overflow: ellipsis;
+      overflow: hidden;
+      white-space: nowrap;
+}
+
+.productThumbWrapper{
+      margin-top: 10px;
+      background-color:black;
+      height:8em;
+      max-height:8em;
+      display:flex;
+      justify-content: end;
+      align-items: flex-end;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+}
+
+.productThumbIcon{
+      color:#21ba45;
+      cursor:pointer;
+}
+
+.productThumbIcon:hover{
+      color:yellow;
+}
+
+.productListItemWrapper{
+      padding: 10px;
+      
+      
+}

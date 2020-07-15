@@ -1,0 +1,15 @@
+h2.ui.header {
+  font-size: 1.9rem !important;
+}
+
+h2.ui.header .sub.header {
+  font-size: 1.3rem !important;
+}
+
+div.sixteen h3 {
+  font-size: 1.6rem !important;
+}
+
+div.sixteen p {
+  font-size: 1.4rem !important;
+}

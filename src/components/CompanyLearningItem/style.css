@@ -1,0 +1,45 @@
+.videoListItemTitleWrapper{
+      overflow:'hidden';
+}
+
+.videoListItemTitle{
+
+      text-overflow: ellipsis;
+      overflow: hidden;
+      white-space: nowrap;
+}
+
+.videoListItemDescriptionWrapper{
+      max-height: 5.5em;
+      overflow: hidden;
+}
+
+.videoListItemDescription{
+      text-overflow: ellipsis;
+      overflow: hidden;
+      white-space: nowrap;
+}
+
+.videoThumbWrapper{
+      margin-top: 10px;
+      background-color:black;
+      height:8em;
+      max-height:8em;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+}
+
+.videoThumbIcon{
+      color:#21ba45;
+      cursor:pointer;
+}
+
+.videoThumbIcon:hover{
+      color:yellow;
+}
+
+.videoListItemWrapper:hover{
+      cursor: pointer;
+      background-color: #f4f4f4 !important;
+}

@@ -1,0 +1,62 @@
+{
+  "name": "web",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@amcharts/amcharts4": "^4.9.26",
+    "@stardust-ui/react": "^0.40.4",
+    "@trendmicro/react-sidenav": "^0.5.0",
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1",
+    "filepond": "^4.7.1",
+    "filepond-plugin-image-exif-orientation": "^1.0.6",
+    "filepond-plugin-image-preview": "^4.4.0",
+    "firebase": "^7.15.1",
+    "image-to-base64": "^2.0.1",
+    "lodash.merge": "^4.6.2",
+    "react": "^16.13.1",
+    "react-datepicker": "^2.10.1",
+    "react-dom": "^16.8.6",
+    "react-filepond": "^7.0.1",
+    "react-notifications-component": "^1.1.1",
+    "react-number-format": "^4.0.8",
+    "react-photo-gallery": "^8.0.0",
+    "react-responsive-modal": "^4.0.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "^3.4.1",
+    "react-signature-canvas": "^1.0.3",
+    "react-simple-storage": "^1.4.1",
+    "react-stack-grid": "^0.7.1",
+    "react-step-wizard": "^5.3.0",
+    "react-toast-notifications": "^2.2.5",
+    "roboto-npm-webfont": "^1.0.1",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.88.0",
+    "simple-react-lightbox": "^2.2.0",
+    "xlsx": "^0.15.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
