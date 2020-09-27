@@ -120,10 +120,6 @@ function CompanyMenu(props) {
             onClick={() => handleItemClick("/company/info/setup/" + company_id)}
           />
           <Menu.Item
-            name="Cargar excel Empleados"
-            onClick={() => handleItemClick("/company/loadExcel/" + company_id)}
-          />
-          <Menu.Item
             name="Cargar excel Modelos"
             onClick={() => handleItemClick("/company/employee/create/models/" + company_id)}
           />
