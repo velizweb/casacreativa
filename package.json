@@ -6,7 +6,7 @@
     "@amcharts/amcharts4": "^4.9.26",
     "@stardust-ui/react": "^0.40.4",
     "@trendmicro/react-sidenav": "^0.5.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "filepond": "^4.7.1",
     "filepond-plugin-image-exif-orientation": "^1.0.6",
